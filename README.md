@@ -1,6 +1,6 @@
 -  Hi, I’m @Strandedx2 I'm a Computer Science Graduate from Oregon State University
 -  I’m interested in Robotics, Webdevelopment, and Gamedevelopment
--  I’m currently learning Human Robot Interaction (HRI)
+-  I’m currently learning as much as I can about robotics
 -  I’m looking to collaborate on creating a game or webproject 
 -  You can find me on linkedin @jacob-a-strand and on discord at strandeddev
 -  Fun fact: I used to compete in multiple FPS titles and would love to make my own game someday
