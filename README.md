@@ -2,7 +2,7 @@
 -  I’m interested in Robotics, Webdevelopment, and Gamedevelopment
 -  I’m currently learning as much as I can about robotics
 -  I’m looking to collaborate on creating a game or webproject 
--  You can find me on linkedin @jacob-a-strand and on discord at strandeddev
+-  You can find me on linkedin @jacob-a-strand
 -  Fun fact: I used to compete in multiple FPS titles and would love to make my own game someday
   
 <!--- <a href="https://app.daily.dev/jacobstrand"><img src="https://api.daily.dev/devcards/v2/AaPxowXJko62aDS5zW478.png?r=fls&type=wide" width="652" alt="Jacob Strand's Dev Card"/></a> --->
